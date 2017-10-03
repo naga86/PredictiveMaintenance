@@ -1,0 +1,5 @@
+Magna International:
+Magna's production pipeline (in Canada) has about 30 machines, each producing multiple automotive parts. The data is time-series sensor data -- each machine has about 20 sensors corresponding to different tool configurations and parameter settings. Along with the sensor data, downtime information (when and what) is also recorded. The (business) goal is to raise alarms for machine downtimes ahead of their occurrence (desired: 1 to 2 hours ahead), and suggest what type of downtime is about to occur to better plan for mitigation.
+
+Jabil:
+
